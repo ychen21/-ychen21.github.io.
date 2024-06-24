@@ -15,7 +15,12 @@ I am a senior student graduting from UW Geography:DS track in this summer 2024. 
 ### Volunteer for animal shelters
 I volunteer for PAWS wildlife and PAWS catcity since 2023 summer. I also have three cats at home, all named after desserts and all are girls.If you like animals, we can be good friends!
 ### Otaku Culture(games, anime, cosplay, most stuff)
-I love stay at home and spend time in the virtural world. My favorite game is Hollow Knight. 
+I love stay at home and spend time in the virtural world. Here is a lits of game I really like:
+- **Hollow Knight**
+- Cyberpunk2077
+- RD2
+- Stardew Valley
+- Steins:Gate
 ### Novels, Literature, and a little bit art
 I know a little about literature and art(painting and pixel art). 
 
