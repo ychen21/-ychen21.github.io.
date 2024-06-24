@@ -4,8 +4,7 @@
 # Education
 ## University of Washington; Geography:DS 2020-2024
 
-![University of Washington Seattle]A purple campus with lots of cherry blossoms and huskies(students).
-![UW Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57sh9YMz1iooFzzD1SXMbcedhDdok0oKk4Q&s)
+![University of Washington Seattle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57sh9YMz1iooFzzD1SXMbcedhDdok0oKk4Q&s)
 
 
 ## About me
