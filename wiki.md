@@ -1,5 +1,5 @@
 # Wiki of Yezhen Chen
-![](Picture.jpg)
+<img src="Picture.jpg" width="200"/>
 
 # Education
 ## University of Washington; Geography:DS 2020-2024
